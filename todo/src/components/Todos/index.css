@@ -1,0 +1,17 @@
+.todos {
+    margin-top: 50px;
+    font-weight: 400;
+}
+
+ul{
+    margin-top: 20px;
+    list-style-type: none;
+}
+
+li{
+    border: 1px solid #333;
+    padding: 10px;
+    border-radius: 4px;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
